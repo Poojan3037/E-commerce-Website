@@ -1,0 +1,32 @@
+.background-primary{
+	background-color:rgb(151, 81, 135) !important;
+}
+
+.sbt-btn{
+	border:2px solid rgb(151, 81, 135);
+	background:transparent;
+	padding:5px;
+	width:130px;
+}
+
+.sbt-btn:hover{
+	background:rgb(151, 81, 135);
+	color:white;
+}
+
+.admin .card{
+	border:1px solid rgb(151, 81, 135)!important;
+}
+
+.admin .card:hover{
+	background:#e2e2e2;
+	cursor:pointer;
+}
+
+.cart-pointer:hover{
+	cursor:pointer;
+}
+
+#text-btn{
+	width:10%!important;
+}
